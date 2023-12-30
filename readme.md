@@ -1,3 +1,4 @@
+```
 1. create k8s cluster on digital ocean and downlaod kubeconfig file locally
 2. download helm and kubectl and set path 
 3. create jenkins-terraform user wth admin permissions and download AWS_ACCESS_KEY and AWS_SECRET_KEY
@@ -68,3 +69,4 @@ pipeline{
   }
 
 Note: make sure that remote backend is created. 
+```
